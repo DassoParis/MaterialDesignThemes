@@ -166,3 +166,25 @@ E:\Downloads\C# - WPF - training\Material Design\5 - Fast Food Sales\MaterialDes
 E:\Downloads\C# - WPF - training\Material Design\5 - Fast Food Sales\MaterialDesign\obj\Debug\MaterialDesign.pdb
 E:\Downloads\C# - WPF - training\Material Design\5 - Fast Food Sales\MaterialDesign\obj\Debug\MaterialDesign.csprojAssemblyReference.cache
 E:\Downloads\C# - WPF - training\Material Design\5 - Fast Food Sales\MaterialDesign\bin\Debug\MaterialDesignColors.pdb
+E:\Downloads\GithubDasso\MaterialDesignThemes\MaterialDesign\bin\Debug\MaterialDesign.exe.config
+E:\Downloads\GithubDasso\MaterialDesignThemes\MaterialDesign\bin\Debug\MaterialDesign.exe
+E:\Downloads\GithubDasso\MaterialDesignThemes\MaterialDesign\bin\Debug\MaterialDesign.pdb
+E:\Downloads\GithubDasso\MaterialDesignThemes\MaterialDesign\bin\Debug\MaterialDesignColors.dll
+E:\Downloads\GithubDasso\MaterialDesignThemes\MaterialDesign\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\Downloads\GithubDasso\MaterialDesignThemes\MaterialDesign\bin\Debug\MaterialDesignColors.pdb
+E:\Downloads\GithubDasso\MaterialDesignThemes\MaterialDesign\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\Downloads\GithubDasso\MaterialDesignThemes\MaterialDesign\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\Downloads\GithubDasso\MaterialDesignThemes\MaterialDesign\obj\Debug\MaterialDesign.csprojAssemblyReference.cache
+E:\Downloads\GithubDasso\MaterialDesignThemes\MaterialDesign\obj\Debug\MainWindow.g.cs
+E:\Downloads\GithubDasso\MaterialDesignThemes\MaterialDesign\obj\Debug\App.g.cs
+E:\Downloads\GithubDasso\MaterialDesignThemes\MaterialDesign\obj\Debug\MaterialDesign_MarkupCompile.cache
+E:\Downloads\GithubDasso\MaterialDesignThemes\MaterialDesign\obj\Debug\MaterialDesign_MarkupCompile.lref
+E:\Downloads\GithubDasso\MaterialDesignThemes\MaterialDesign\obj\Debug\App.baml
+E:\Downloads\GithubDasso\MaterialDesignThemes\MaterialDesign\obj\Debug\MainWindow.baml
+E:\Downloads\GithubDasso\MaterialDesignThemes\MaterialDesign\obj\Debug\MaterialDesign.g.resources
+E:\Downloads\GithubDasso\MaterialDesignThemes\MaterialDesign\obj\Debug\MaterialDesign.Properties.Resources.resources
+E:\Downloads\GithubDasso\MaterialDesignThemes\MaterialDesign\obj\Debug\MaterialDesign.csproj.GenerateResource.cache
+E:\Downloads\GithubDasso\MaterialDesignThemes\MaterialDesign\obj\Debug\MaterialDesign.csproj.CoreCompileInputs.cache
+E:\Downloads\GithubDasso\MaterialDesignThemes\MaterialDesign\obj\Debug\MaterialDesign.csproj.CopyComplete
+E:\Downloads\GithubDasso\MaterialDesignThemes\MaterialDesign\obj\Debug\MaterialDesign.exe
+E:\Downloads\GithubDasso\MaterialDesignThemes\MaterialDesign\obj\Debug\MaterialDesign.pdb
