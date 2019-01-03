@@ -1,0 +1,168 @@
+C:\Valeo\Visual Studio\Material Design\MaterialDesign\MaterialDesign\bin\Debug\MaterialDesign.exe.config
+C:\Valeo\Visual Studio\Material Design\MaterialDesign\MaterialDesign\bin\Debug\MaterialDesign.exe
+C:\Valeo\Visual Studio\Material Design\MaterialDesign\MaterialDesign\bin\Debug\MaterialDesign.pdb
+C:\Valeo\Visual Studio\Material Design\MaterialDesign\MaterialDesign\bin\Debug\MaterialDesignColors.dll
+C:\Valeo\Visual Studio\Material Design\MaterialDesign\MaterialDesign\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Valeo\Visual Studio\Material Design\MaterialDesign\MaterialDesign\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Valeo\Visual Studio\Material Design\MaterialDesign\MaterialDesign\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Valeo\Visual Studio\Material Design\MaterialDesign\MaterialDesign\obj\Debug\MainWindow.g.cs
+C:\Valeo\Visual Studio\Material Design\MaterialDesign\MaterialDesign\obj\Debug\App.g.cs
+C:\Valeo\Visual Studio\Material Design\MaterialDesign\MaterialDesign\obj\Debug\MaterialDesign_MarkupCompile.cache
+C:\Valeo\Visual Studio\Material Design\MaterialDesign\MaterialDesign\obj\Debug\MaterialDesign_MarkupCompile.lref
+C:\Valeo\Visual Studio\Material Design\MaterialDesign\MaterialDesign\obj\Debug\App.baml
+C:\Valeo\Visual Studio\Material Design\MaterialDesign\MaterialDesign\obj\Debug\MainWindow.baml
+C:\Valeo\Visual Studio\Material Design\MaterialDesign\MaterialDesign\obj\Debug\MaterialDesign.g.resources
+C:\Valeo\Visual Studio\Material Design\MaterialDesign\MaterialDesign\obj\Debug\MaterialDesign.Properties.Resources.resources
+C:\Valeo\Visual Studio\Material Design\MaterialDesign\MaterialDesign\obj\Debug\MaterialDesign.csproj.GenerateResource.cache
+C:\Valeo\Visual Studio\Material Design\MaterialDesign\MaterialDesign\obj\Debug\MaterialDesign.csproj.CoreCompileInputs.cache
+C:\Valeo\Visual Studio\Material Design\MaterialDesign\MaterialDesign\obj\Debug\MaterialDesign.csproj.CopyComplete
+C:\Valeo\Visual Studio\Material Design\MaterialDesign\MaterialDesign\obj\Debug\MaterialDesign.exe
+C:\Valeo\Visual Studio\Material Design\MaterialDesign\MaterialDesign\obj\Debug\MaterialDesign.pdb
+C:\Valeo\Visual Studio\Material Design\1 - C# WPF UI Login Window\MaterialDesign\bin\Debug\MaterialDesign.exe.config
+C:\Valeo\Visual Studio\Material Design\1 - C# WPF UI Login Window\MaterialDesign\bin\Debug\MaterialDesign.exe
+C:\Valeo\Visual Studio\Material Design\1 - C# WPF UI Login Window\MaterialDesign\bin\Debug\MaterialDesign.pdb
+C:\Valeo\Visual Studio\Material Design\1 - C# WPF UI Login Window\MaterialDesign\bin\Debug\MaterialDesignColors.dll
+C:\Valeo\Visual Studio\Material Design\1 - C# WPF UI Login Window\MaterialDesign\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Valeo\Visual Studio\Material Design\1 - C# WPF UI Login Window\MaterialDesign\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Valeo\Visual Studio\Material Design\1 - C# WPF UI Login Window\MaterialDesign\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Valeo\Visual Studio\Material Design\1 - C# WPF UI Login Window\MaterialDesign\obj\Debug\MainWindow.g.cs
+C:\Valeo\Visual Studio\Material Design\1 - C# WPF UI Login Window\MaterialDesign\obj\Debug\App.g.cs
+C:\Valeo\Visual Studio\Material Design\1 - C# WPF UI Login Window\MaterialDesign\obj\Debug\MaterialDesign_MarkupCompile.cache
+C:\Valeo\Visual Studio\Material Design\1 - C# WPF UI Login Window\MaterialDesign\obj\Debug\MaterialDesign_MarkupCompile.lref
+C:\Valeo\Visual Studio\Material Design\1 - C# WPF UI Login Window\MaterialDesign\obj\Debug\App.baml
+C:\Valeo\Visual Studio\Material Design\1 - C# WPF UI Login Window\MaterialDesign\obj\Debug\MainWindow.baml
+C:\Valeo\Visual Studio\Material Design\1 - C# WPF UI Login Window\MaterialDesign\obj\Debug\MaterialDesign.g.resources
+C:\Valeo\Visual Studio\Material Design\1 - C# WPF UI Login Window\MaterialDesign\obj\Debug\MaterialDesign.Properties.Resources.resources
+C:\Valeo\Visual Studio\Material Design\1 - C# WPF UI Login Window\MaterialDesign\obj\Debug\MaterialDesign.csproj.GenerateResource.cache
+C:\Valeo\Visual Studio\Material Design\1 - C# WPF UI Login Window\MaterialDesign\obj\Debug\MaterialDesign.csproj.CoreCompileInputs.cache
+C:\Valeo\Visual Studio\Material Design\1 - C# WPF UI Login Window\MaterialDesign\obj\Debug\MaterialDesign.csproj.CopyComplete
+C:\Valeo\Visual Studio\Material Design\1 - C# WPF UI Login Window\MaterialDesign\obj\Debug\MaterialDesign.exe
+C:\Valeo\Visual Studio\Material Design\1 - C# WPF UI Login Window\MaterialDesign\obj\Debug\MaterialDesign.pdb
+C:\Valeo\Visual Studio\Material Design\1 - C# WPF UI Login Window\MaterialDesign\obj\Debug\MaterialDesign.csprojAssemblyReference.cache
+C:\Valeo\Visual Studio\Material Design\2 - C# WPF UI - Login Window\MaterialDesign\bin\Debug\MaterialDesign.exe.config
+C:\Valeo\Visual Studio\Material Design\2 - C# WPF UI - Login Window\MaterialDesign\bin\Debug\MaterialDesign.exe
+C:\Valeo\Visual Studio\Material Design\2 - C# WPF UI - Login Window\MaterialDesign\bin\Debug\MaterialDesign.pdb
+C:\Valeo\Visual Studio\Material Design\2 - C# WPF UI - Login Window\MaterialDesign\bin\Debug\MaterialDesignColors.dll
+C:\Valeo\Visual Studio\Material Design\2 - C# WPF UI - Login Window\MaterialDesign\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Valeo\Visual Studio\Material Design\2 - C# WPF UI - Login Window\MaterialDesign\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Valeo\Visual Studio\Material Design\2 - C# WPF UI - Login Window\MaterialDesign\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Valeo\Visual Studio\Material Design\2 - C# WPF UI - Login Window\MaterialDesign\obj\Debug\MaterialDesign.csprojAssemblyReference.cache
+C:\Valeo\Visual Studio\Material Design\2 - C# WPF UI - Login Window\MaterialDesign\obj\Debug\MainWindow.g.cs
+C:\Valeo\Visual Studio\Material Design\2 - C# WPF UI - Login Window\MaterialDesign\obj\Debug\App.g.cs
+C:\Valeo\Visual Studio\Material Design\2 - C# WPF UI - Login Window\MaterialDesign\obj\Debug\MaterialDesign_MarkupCompile.cache
+C:\Valeo\Visual Studio\Material Design\2 - C# WPF UI - Login Window\MaterialDesign\obj\Debug\MaterialDesign_MarkupCompile.lref
+C:\Valeo\Visual Studio\Material Design\2 - C# WPF UI - Login Window\MaterialDesign\obj\Debug\App.baml
+C:\Valeo\Visual Studio\Material Design\2 - C# WPF UI - Login Window\MaterialDesign\obj\Debug\MainWindow.baml
+C:\Valeo\Visual Studio\Material Design\2 - C# WPF UI - Login Window\MaterialDesign\obj\Debug\MaterialDesign.g.resources
+C:\Valeo\Visual Studio\Material Design\2 - C# WPF UI - Login Window\MaterialDesign\obj\Debug\MaterialDesign.Properties.Resources.resources
+C:\Valeo\Visual Studio\Material Design\2 - C# WPF UI - Login Window\MaterialDesign\obj\Debug\MaterialDesign.csproj.GenerateResource.cache
+C:\Valeo\Visual Studio\Material Design\2 - C# WPF UI - Login Window\MaterialDesign\obj\Debug\MaterialDesign.csproj.CoreCompileInputs.cache
+C:\Valeo\Visual Studio\Material Design\2 - C# WPF UI - Login Window\MaterialDesign\obj\Debug\MaterialDesign.csproj.CopyComplete
+C:\Valeo\Visual Studio\Material Design\2 - C# WPF UI - Login Window\MaterialDesign\obj\Debug\MaterialDesign.exe
+C:\Valeo\Visual Studio\Material Design\2 - C# WPF UI - Login Window\MaterialDesign\obj\Debug\MaterialDesign.pdb
+C:\Valeo\Visual Studio\Material Design\3 - C# WPF UI - UI Music Player\MaterialDesign\bin\Debug\MaterialDesign.exe.config
+C:\Valeo\Visual Studio\Material Design\3 - C# WPF UI - UI Music Player\MaterialDesign\bin\Debug\MaterialDesign.exe
+C:\Valeo\Visual Studio\Material Design\3 - C# WPF UI - UI Music Player\MaterialDesign\bin\Debug\MaterialDesign.pdb
+C:\Valeo\Visual Studio\Material Design\3 - C# WPF UI - UI Music Player\MaterialDesign\bin\Debug\MaterialDesignColors.dll
+C:\Valeo\Visual Studio\Material Design\3 - C# WPF UI - UI Music Player\MaterialDesign\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Valeo\Visual Studio\Material Design\3 - C# WPF UI - UI Music Player\MaterialDesign\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Valeo\Visual Studio\Material Design\3 - C# WPF UI - UI Music Player\MaterialDesign\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Valeo\Visual Studio\Material Design\3 - C# WPF UI - UI Music Player\MaterialDesign\obj\Debug\MainWindow.g.cs
+C:\Valeo\Visual Studio\Material Design\3 - C# WPF UI - UI Music Player\MaterialDesign\obj\Debug\App.g.cs
+C:\Valeo\Visual Studio\Material Design\3 - C# WPF UI - UI Music Player\MaterialDesign\obj\Debug\MaterialDesign_MarkupCompile.cache
+C:\Valeo\Visual Studio\Material Design\3 - C# WPF UI - UI Music Player\MaterialDesign\obj\Debug\MaterialDesign_MarkupCompile.lref
+C:\Valeo\Visual Studio\Material Design\3 - C# WPF UI - UI Music Player\MaterialDesign\obj\Debug\App.baml
+C:\Valeo\Visual Studio\Material Design\3 - C# WPF UI - UI Music Player\MaterialDesign\obj\Debug\MainWindow.baml
+C:\Valeo\Visual Studio\Material Design\3 - C# WPF UI - UI Music Player\MaterialDesign\obj\Debug\MaterialDesign.g.resources
+C:\Valeo\Visual Studio\Material Design\3 - C# WPF UI - UI Music Player\MaterialDesign\obj\Debug\MaterialDesign.Properties.Resources.resources
+C:\Valeo\Visual Studio\Material Design\3 - C# WPF UI - UI Music Player\MaterialDesign\obj\Debug\MaterialDesign.csproj.GenerateResource.cache
+C:\Valeo\Visual Studio\Material Design\3 - C# WPF UI - UI Music Player\MaterialDesign\obj\Debug\MaterialDesign.csproj.CoreCompileInputs.cache
+C:\Valeo\Visual Studio\Material Design\3 - C# WPF UI - UI Music Player\MaterialDesign\obj\Debug\MaterialDesign.csproj.CopyComplete
+C:\Valeo\Visual Studio\Material Design\3 - C# WPF UI - UI Music Player\MaterialDesign\obj\Debug\MaterialDesign.exe
+C:\Valeo\Visual Studio\Material Design\3 - C# WPF UI - UI Music Player\MaterialDesign\obj\Debug\MaterialDesign.pdb
+C:\Valeo\Visual Studio\Material Design\3 - C# WPF UI - UI Music Player\MaterialDesign\obj\Debug\MaterialDesign.csprojAssemblyReference.cache
+C:\Valeo\Visual Studio\Material Design\4 - Dashboard\MaterialDesign\bin\Debug\MaterialDesign.exe.config
+C:\Valeo\Visual Studio\Material Design\4 - Dashboard\MaterialDesign\bin\Debug\MaterialDesign.exe
+C:\Valeo\Visual Studio\Material Design\4 - Dashboard\MaterialDesign\bin\Debug\MaterialDesign.pdb
+C:\Valeo\Visual Studio\Material Design\4 - Dashboard\MaterialDesign\bin\Debug\MaterialDesignColors.dll
+C:\Valeo\Visual Studio\Material Design\4 - Dashboard\MaterialDesign\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Valeo\Visual Studio\Material Design\4 - Dashboard\MaterialDesign\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Valeo\Visual Studio\Material Design\4 - Dashboard\MaterialDesign\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Valeo\Visual Studio\Material Design\4 - Dashboard\MaterialDesign\obj\Debug\MainWindow.g.cs
+C:\Valeo\Visual Studio\Material Design\4 - Dashboard\MaterialDesign\obj\Debug\App.g.cs
+C:\Valeo\Visual Studio\Material Design\4 - Dashboard\MaterialDesign\obj\Debug\MaterialDesign_MarkupCompile.cache
+C:\Valeo\Visual Studio\Material Design\4 - Dashboard\MaterialDesign\obj\Debug\MaterialDesign_MarkupCompile.lref
+C:\Valeo\Visual Studio\Material Design\4 - Dashboard\MaterialDesign\obj\Debug\App.baml
+C:\Valeo\Visual Studio\Material Design\4 - Dashboard\MaterialDesign\obj\Debug\MainWindow.baml
+C:\Valeo\Visual Studio\Material Design\4 - Dashboard\MaterialDesign\obj\Debug\MaterialDesign.g.resources
+C:\Valeo\Visual Studio\Material Design\4 - Dashboard\MaterialDesign\obj\Debug\MaterialDesign.Properties.Resources.resources
+C:\Valeo\Visual Studio\Material Design\4 - Dashboard\MaterialDesign\obj\Debug\MaterialDesign.csproj.GenerateResource.cache
+C:\Valeo\Visual Studio\Material Design\4 - Dashboard\MaterialDesign\obj\Debug\MaterialDesign.csproj.CoreCompileInputs.cache
+C:\Valeo\Visual Studio\Material Design\4 - Dashboard\MaterialDesign\obj\Debug\MaterialDesign.csproj.CopyComplete
+C:\Valeo\Visual Studio\Material Design\4 - Dashboard\MaterialDesign\obj\Debug\MaterialDesign.exe
+C:\Valeo\Visual Studio\Material Design\4 - Dashboard\MaterialDesign\obj\Debug\MaterialDesign.pdb
+D:\AUDACE\PRO LIFE\Valeo\Visual Studio\Material Design\4 - Dashboard\MaterialDesign\bin\Debug\MaterialDesign.exe.config
+D:\AUDACE\PRO LIFE\Valeo\Visual Studio\Material Design\4 - Dashboard\MaterialDesign\bin\Debug\MaterialDesign.exe
+D:\AUDACE\PRO LIFE\Valeo\Visual Studio\Material Design\4 - Dashboard\MaterialDesign\bin\Debug\MaterialDesign.pdb
+D:\AUDACE\PRO LIFE\Valeo\Visual Studio\Material Design\4 - Dashboard\MaterialDesign\bin\Debug\MaterialDesignColors.dll
+D:\AUDACE\PRO LIFE\Valeo\Visual Studio\Material Design\4 - Dashboard\MaterialDesign\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\AUDACE\PRO LIFE\Valeo\Visual Studio\Material Design\4 - Dashboard\MaterialDesign\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\AUDACE\PRO LIFE\Valeo\Visual Studio\Material Design\4 - Dashboard\MaterialDesign\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\AUDACE\PRO LIFE\Valeo\Visual Studio\Material Design\4 - Dashboard\MaterialDesign\obj\Debug\MainWindow.g.cs
+D:\AUDACE\PRO LIFE\Valeo\Visual Studio\Material Design\4 - Dashboard\MaterialDesign\obj\Debug\App.g.cs
+D:\AUDACE\PRO LIFE\Valeo\Visual Studio\Material Design\4 - Dashboard\MaterialDesign\obj\Debug\MaterialDesign_MarkupCompile.cache
+D:\AUDACE\PRO LIFE\Valeo\Visual Studio\Material Design\4 - Dashboard\MaterialDesign\obj\Debug\MaterialDesign_MarkupCompile.lref
+D:\AUDACE\PRO LIFE\Valeo\Visual Studio\Material Design\4 - Dashboard\MaterialDesign\obj\Debug\App.baml
+D:\AUDACE\PRO LIFE\Valeo\Visual Studio\Material Design\4 - Dashboard\MaterialDesign\obj\Debug\MainWindow.baml
+D:\AUDACE\PRO LIFE\Valeo\Visual Studio\Material Design\4 - Dashboard\MaterialDesign\obj\Debug\MaterialDesign.g.resources
+D:\AUDACE\PRO LIFE\Valeo\Visual Studio\Material Design\4 - Dashboard\MaterialDesign\obj\Debug\MaterialDesign.Properties.Resources.resources
+D:\AUDACE\PRO LIFE\Valeo\Visual Studio\Material Design\4 - Dashboard\MaterialDesign\obj\Debug\MaterialDesign.csproj.GenerateResource.cache
+D:\AUDACE\PRO LIFE\Valeo\Visual Studio\Material Design\4 - Dashboard\MaterialDesign\obj\Debug\MaterialDesign.csproj.CoreCompileInputs.cache
+D:\AUDACE\PRO LIFE\Valeo\Visual Studio\Material Design\4 - Dashboard\MaterialDesign\obj\Debug\MaterialDesign.csproj.CopyComplete
+D:\AUDACE\PRO LIFE\Valeo\Visual Studio\Material Design\4 - Dashboard\MaterialDesign\obj\Debug\MaterialDesign.exe
+D:\AUDACE\PRO LIFE\Valeo\Visual Studio\Material Design\4 - Dashboard\MaterialDesign\obj\Debug\MaterialDesign.pdb
+D:\AUDACE\PRO LIFE\Valeo\Visual Studio\Material Design\4 - Dashboard\MaterialDesign\obj\Debug\MaterialDesign.csprojAssemblyReference.cache
+E:\Downloads\VS 2017\Material Design\4 - Dashboard\MaterialDesign\bin\Debug\MaterialDesign.exe.config
+E:\Downloads\VS 2017\Material Design\4 - Dashboard\MaterialDesign\bin\Debug\MaterialDesign.exe
+E:\Downloads\VS 2017\Material Design\4 - Dashboard\MaterialDesign\bin\Debug\MaterialDesign.pdb
+E:\Downloads\VS 2017\Material Design\4 - Dashboard\MaterialDesign\bin\Debug\MaterialDesignColors.dll
+E:\Downloads\VS 2017\Material Design\4 - Dashboard\MaterialDesign\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\Downloads\VS 2017\Material Design\4 - Dashboard\MaterialDesign\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\Downloads\VS 2017\Material Design\4 - Dashboard\MaterialDesign\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\Downloads\VS 2017\Material Design\4 - Dashboard\MaterialDesign\obj\Debug\MainWindow.g.cs
+E:\Downloads\VS 2017\Material Design\4 - Dashboard\MaterialDesign\obj\Debug\App.g.cs
+E:\Downloads\VS 2017\Material Design\4 - Dashboard\MaterialDesign\obj\Debug\MaterialDesign_MarkupCompile.cache
+E:\Downloads\VS 2017\Material Design\4 - Dashboard\MaterialDesign\obj\Debug\MaterialDesign_MarkupCompile.lref
+E:\Downloads\VS 2017\Material Design\4 - Dashboard\MaterialDesign\obj\Debug\App.baml
+E:\Downloads\VS 2017\Material Design\4 - Dashboard\MaterialDesign\obj\Debug\MainWindow.baml
+E:\Downloads\VS 2017\Material Design\4 - Dashboard\MaterialDesign\obj\Debug\MaterialDesign.g.resources
+E:\Downloads\VS 2017\Material Design\4 - Dashboard\MaterialDesign\obj\Debug\MaterialDesign.Properties.Resources.resources
+E:\Downloads\VS 2017\Material Design\4 - Dashboard\MaterialDesign\obj\Debug\MaterialDesign.csproj.GenerateResource.cache
+E:\Downloads\VS 2017\Material Design\4 - Dashboard\MaterialDesign\obj\Debug\MaterialDesign.csproj.CoreCompileInputs.cache
+E:\Downloads\VS 2017\Material Design\4 - Dashboard\MaterialDesign\obj\Debug\MaterialDesign.csproj.CopyComplete
+E:\Downloads\VS 2017\Material Design\4 - Dashboard\MaterialDesign\obj\Debug\MaterialDesign.exe
+E:\Downloads\VS 2017\Material Design\4 - Dashboard\MaterialDesign\obj\Debug\MaterialDesign.pdb
+E:\Downloads\VS 2017\Material Design\4 - Dashboard\MaterialDesign\bin\Debug\De.TorstenMandelkow.MetroChart.dll
+E:\Downloads\VS 2017\Material Design\4 - Dashboard\MaterialDesign\bin\Debug\MaterialDesignColors.pdb
+E:\Downloads\C# - WPF - training\Material Design\5 - Fast Food Sales\MaterialDesign\obj\Debug\MainWindow.g.cs
+E:\Downloads\C# - WPF - training\Material Design\5 - Fast Food Sales\MaterialDesign\obj\Debug\App.g.cs
+E:\Downloads\C# - WPF - training\Material Design\5 - Fast Food Sales\MaterialDesign\obj\Debug\MaterialDesign_MarkupCompile.cache
+E:\Downloads\C# - WPF - training\Material Design\5 - Fast Food Sales\MaterialDesign\obj\Debug\MaterialDesign_MarkupCompile.lref
+E:\Downloads\C# - WPF - training\Material Design\5 - Fast Food Sales\MaterialDesign\bin\Debug\MaterialDesign.exe.config
+E:\Downloads\C# - WPF - training\Material Design\5 - Fast Food Sales\MaterialDesign\bin\Debug\MaterialDesign.exe
+E:\Downloads\C# - WPF - training\Material Design\5 - Fast Food Sales\MaterialDesign\bin\Debug\MaterialDesign.pdb
+E:\Downloads\C# - WPF - training\Material Design\5 - Fast Food Sales\MaterialDesign\bin\Debug\MaterialDesignColors.dll
+E:\Downloads\C# - WPF - training\Material Design\5 - Fast Food Sales\MaterialDesign\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\Downloads\C# - WPF - training\Material Design\5 - Fast Food Sales\MaterialDesign\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\Downloads\C# - WPF - training\Material Design\5 - Fast Food Sales\MaterialDesign\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\Downloads\C# - WPF - training\Material Design\5 - Fast Food Sales\MaterialDesign\obj\Debug\App.baml
+E:\Downloads\C# - WPF - training\Material Design\5 - Fast Food Sales\MaterialDesign\obj\Debug\MainWindow.baml
+E:\Downloads\C# - WPF - training\Material Design\5 - Fast Food Sales\MaterialDesign\obj\Debug\MaterialDesign.g.resources
+E:\Downloads\C# - WPF - training\Material Design\5 - Fast Food Sales\MaterialDesign\obj\Debug\MaterialDesign.Properties.Resources.resources
+E:\Downloads\C# - WPF - training\Material Design\5 - Fast Food Sales\MaterialDesign\obj\Debug\MaterialDesign.csproj.GenerateResource.cache
+E:\Downloads\C# - WPF - training\Material Design\5 - Fast Food Sales\MaterialDesign\obj\Debug\MaterialDesign.csproj.CoreCompileInputs.cache
+E:\Downloads\C# - WPF - training\Material Design\5 - Fast Food Sales\MaterialDesign\obj\Debug\MaterialDesign.csproj.CopyComplete
+E:\Downloads\C# - WPF - training\Material Design\5 - Fast Food Sales\MaterialDesign\obj\Debug\MaterialDesign.exe
+E:\Downloads\C# - WPF - training\Material Design\5 - Fast Food Sales\MaterialDesign\obj\Debug\MaterialDesign.pdb
+E:\Downloads\C# - WPF - training\Material Design\5 - Fast Food Sales\MaterialDesign\obj\Debug\MaterialDesign.csprojAssemblyReference.cache
+E:\Downloads\C# - WPF - training\Material Design\5 - Fast Food Sales\MaterialDesign\bin\Debug\MaterialDesignColors.pdb
